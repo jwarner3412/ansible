@@ -1,0 +1,38 @@
+[debian servers]
+nextcloud.home.lan
+guacamole.home.lan
+zenbot.home.lan
+heimdall.home.lan
+xteve.home.lan
+jellyfin.home.lan
+prowlarr.home.lan
+vhserver.home.lan
+organizr.home.lan
+sonarr.home.lan
+deluge.home.lan
+radarr.home.lan
+lidarr.home.lan
+openldap.home.lan
+nzbget.home.lan
+homer.home.lan
+
+[debian desktops]
+james-ubuntu.home.lan
+popos.home.lan
+tobuntu.home.lan
+jack-ubuntu.home.lan
+ubuntu.home.lan
+
+[arch desktops]
+james-majaro.home.lan
+meg-manjaro.home.lan
+
+[windows machines]
+meg-pc.home.lan
+jack-pc.home.lan
+guest-pc.home.lan
+hometheatre-pc.home.lan
+windows2.home.lan
+
+[router]
+pfsense.home.lan
